@@ -12,15 +12,15 @@
 
  * Responsive Design 
 
- * Three differents panel admin , instractor and normal user
+ * Three different panel admin , instructor and normal user
 
  * Admin can manage users and classes 
 
- * Instractor can add class and also can see his/her added classes
+ * Instructor can add class and also can see his/her added classes
 
- * User can select class
+ * User can select classes
 
- * Enrollment will be completed after payment
+ * Enrollment will be completed after done payment
 
 <h1> Resources & Credits </h1>
 
