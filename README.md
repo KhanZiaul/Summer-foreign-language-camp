@@ -8,19 +8,15 @@
 
 <h1> Best Features </h1>
 
- * User-Friendly Interface 
+ * User-Friendly Interface & Responsive Design 
 
- * Responsive Design 
-
- * Three different panel admin , instructor and normal user
+ * Three different panel admin , instructor and student user
 
  * Admin can manage users and classes 
 
- * Instructor can add class and also can see his/her added classes
+ * Instructor can add new class and also can see his/her added new classes
 
- * User can select classes
-
- * Enrollment will be completed after done payment
+ * Student can select classes and enrollment will be completed after done payment
 
 <h1> Resources & Credits </h1>
 
