@@ -6,11 +6,11 @@
 
 <p> Hosted in Firebase : https://tonguetied-5d5b8.web.app/ </p>
 
-<P>About
+<P>
 Admin email : admin@gmail.com <br/>
-Admin-password : aA1@asdf <br/>
-Instructor-email : instructor@gmail.com <br/>
-Instructor-password : aA1@asdf
+Admin password : aA1@asdf <br/>
+Instructor email : instructor@gmail.com <br/>
+Instructor password : aA1@asdf
 </P>
 
 <h1> Best Features </h1>
