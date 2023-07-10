@@ -17,7 +17,7 @@ Instructor password : aA1@asdf
 
  * User-Friendly Interface & Responsive Design 
 
- * Three different panel admin , instructor and student user
+ * Three different panel admin , instructor and student
 
  * Admin can manage users and classes 
 
